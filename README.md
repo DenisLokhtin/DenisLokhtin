@@ -15,8 +15,5 @@ Hello! My name is Denis and I am a full stack Js developer. I write in React and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DenisLokhtin&icon=5&color=12)](https://visitcount.itsvg.in)
