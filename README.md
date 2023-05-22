@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Denis and I am a full stack Js developer. I write in React and node js. I am actively looking for a job.
+Hello! My name is Denis and I am a full stack Js developer. I write in React and node js.
 
 
 ## 🌐 Socials:
